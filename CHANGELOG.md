@@ -1,5 +1,27 @@
 # Changelog
 
+## [2.6.0](https://github.com/Negar-Hashemi/puter/compare/v2.5.1...v2.6.0) (2025-05-06)
+
+
+### Features
+
+* essential configuration options for deployers ([3666b9f](https://github.com/Negar-Hashemi/puter/commit/3666b9f3a25127909940c988164ff61ec3c2ea99))
+
+
+### Bug Fixes
+
+* dev-center undefined error ([794778d](https://github.com/Negar-Hashemi/puter/commit/794778d665b0ae6dfa92b727a5f88fc604e982cd))
+* errors after stream starts ([759c32a](https://github.com/Negar-Hashemi/puter/commit/759c32ac726461202323d97309828160cd6dc1a0))
+* get event docs back in sync ([e6b3cb3](https://github.com/Negar-Hashemi/puter/commit/e6b3cb36665b51c5b7cc88f13513bf71c36a4f3a))
+* message coercion bug affecting vision ([ec0a721](https://github.com/Negar-Hashemi/puter/commit/ec0a72114382a78d82bc7d0156daf1a2a003d567))
+* message coercion for tool call message ([d66e38c](https://github.com/Negar-Hashemi/puter/commit/d66e38cc667073603d4368095d4e0bc277218f90))
+* move AppCommandProvider to the end ([870e4aa](https://github.com/Negar-Hashemi/puter/commit/870e4aa93807f1fcd37af29d9369737ab9f4b4b1))
+* o3 tools with array parameters ([2ee380e](https://github.com/Negar-Hashemi/puter/commit/2ee380ec16789525c9f0b782fb4af1e193ddd232))
+* path update in legacy rename behavior ([7e82c94](https://github.com/Negar-Hashemi/puter/commit/7e82c947b1070b4a42798f7ae84bfaee8c3b54c9))
+* puter subdomain error response ([cfa5c7e](https://github.com/Negar-Hashemi/puter/commit/cfa5c7e715405a0f92dc798195edc25f66b2b83b))
+* recursive delete error ([7e76b65](https://github.com/Negar-Hashemi/puter/commit/7e76b657bb2fe811d437598471e52744a6276088))
+* **security:** patch express via path-to-regexp ([d081c4f](https://github.com/Negar-Hashemi/puter/commit/d081c4f2fe8357ef8aa35790a794509a8e188fb7))
+
 ## v2.5.1 (2025-02-13)
 
 ### Puter
